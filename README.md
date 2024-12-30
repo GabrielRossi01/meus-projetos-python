@@ -4,7 +4,7 @@ Este projeto contém os 8 capítulos estudados durante o curso, abordando desde 
 
 ## 📚 Contéudo do Curso
 
-### 1️⃣ ** Introdução à Linguagem Python**
+### 1️⃣ **Introdução à Linguagem Python**
 Conceitos básicos da lingaguem, como sintaxe, tipos de dados e ambiente de desenvolvimento.
 
 ### 2️⃣ **Variáveis, Tomada de Decisão e Laços de Repetição**
