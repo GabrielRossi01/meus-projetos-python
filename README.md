@@ -1,6 +1,6 @@
 # 📒 Curso de Python
 Bem-vindo ao repositório do curso de Python oferecido pela FIAP! 
-Este projeto contém os 8 capítulos estudados durante o curso, abordando desde os fundamentos da linguagem até aplicações avançadas, como intergração com IoT.
+Este projeto contém os 8 capítulos estudados durante o curso, abordando desde os fundamentos da linguagem até aplicações avançadas, como integração com IoT.
 
 ## 📚 Contéudo do Curso
 
